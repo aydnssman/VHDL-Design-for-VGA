@@ -1,2 +1,6 @@
 # VHDL Design for VGA
-In this project, the word AYDIN was written on the Nexys 4 DDR FPGA board using the pixel alphabet.
+
+This VHDL program for the generation and display of word "AYDIN" using VGA format.
+
+ ####
+ ![pixel](https://i.hizliresim.com/38qg1tz.PNG)
