@@ -6,4 +6,4 @@ Nexys 4 DDR FPGA board was used in this project. The sample output of the projec
 
 ![pixel](https://i.hizliresim.com/38qg1tz.PNG)
 
-#### PS: Vertical and horizontal scans were made for each letter separately.
+#### P.S: Vertical and horizontal scans were made for each letter separately.
