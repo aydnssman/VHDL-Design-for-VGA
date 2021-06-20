@@ -1,1 +1,1 @@
-# VHDL-Design-for-VGA
+# VHDL Design for VGA
